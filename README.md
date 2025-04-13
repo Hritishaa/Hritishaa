@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on web development<br>Leetcode 450+ questions<br>Proficient in C++, JAVA, Python 
+Currently working on web development<br>Leetcode 500+ questions<br>Proficient in C++, JAVA, Python 
 
 
 ## 🌐 Socials:
